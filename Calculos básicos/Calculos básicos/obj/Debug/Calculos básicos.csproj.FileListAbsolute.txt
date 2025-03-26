@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculos básicos\Calculos básicos\bin\Debug\Calculos básicos.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculos básicos\Calculos básicos\bin\Debug\Calculos básicos.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculos básicos\Calculos básicos\bin\Debug\Calculos básicos.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculos básicos\Calculos básicos\obj\Debug\Calculos básicos.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculos básicos\Calculos básicos\obj\Debug\Calculos básicos.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculos básicos\Calculos básicos\obj\Debug\Calculos básicos.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculos básicos\Calculos básicos\obj\Debug\Calculos básicos.pdb
