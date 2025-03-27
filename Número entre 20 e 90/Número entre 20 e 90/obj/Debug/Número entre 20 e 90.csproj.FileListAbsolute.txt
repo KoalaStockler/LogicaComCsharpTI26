@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Número entre 20 e 90\Número entre 20 e 90\bin\Debug\Número entre 20 e 90.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Número entre 20 e 90\Número entre 20 e 90\bin\Debug\Número entre 20 e 90.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Número entre 20 e 90\Número entre 20 e 90\bin\Debug\Número entre 20 e 90.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Número entre 20 e 90\Número entre 20 e 90\obj\Debug\Número entre 20 e 90.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Número entre 20 e 90\Número entre 20 e 90\obj\Debug\Número entre 20 e 90.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Número entre 20 e 90\Número entre 20 e 90\obj\Debug\Número entre 20 e 90.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Número entre 20 e 90\Número entre 20 e 90\obj\Debug\Número entre 20 e 90.pdb
