@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estoque_Vinho\Estoque_Vinho\bin\Debug\Estoque_Vinho.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estoque_Vinho\Estoque_Vinho\bin\Debug\Estoque_Vinho.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estoque_Vinho\Estoque_Vinho\bin\Debug\Estoque_Vinho.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estoque_Vinho\Estoque_Vinho\obj\Debug\Estoque_Vinho.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estoque_Vinho\Estoque_Vinho\obj\Debug\Estoque_Vinho.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estoque_Vinho\Estoque_Vinho\obj\Debug\Estoque_Vinho.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estoque_Vinho\Estoque_Vinho\obj\Debug\Estoque_Vinho.pdb

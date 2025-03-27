@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Ano_de_Nascimento_com_Idade\Ano_de_Nascimento_com_Idade\obj\Debug\Ano_de_Nascimento_com_Idade.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Ano_de_Nascimento_com_Idade\Ano_de_Nascimento_com_Idade\obj\Debug\Ano_de_Nascimento_com_Idade.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Ano_de_Nascimento_com_Idade\Ano_de_Nascimento_com_Idade\bin\Debug\Ano_de_Nascimento_com_Idade.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Ano_de_Nascimento_com_Idade\Ano_de_Nascimento_com_Idade\bin\Debug\Ano_de_Nascimento_com_Idade.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Ano_de_Nascimento_com_Idade\Ano_de_Nascimento_com_Idade\bin\Debug\Ano_de_Nascimento_com_Idade.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Ano_de_Nascimento_com_Idade\Ano_de_Nascimento_com_Idade\obj\Debug\Ano_de_Nascimento_com_Idade.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Ano_de_Nascimento_com_Idade\Ano_de_Nascimento_com_Idade\obj\Debug\Ano_de_Nascimento_com_Idade.pdb
