@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Soma_ou_Multiplica\Soma_ou_Multiplica\bin\Debug\Soma_ou_Multiplica.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Soma_ou_Multiplica\Soma_ou_Multiplica\bin\Debug\Soma_ou_Multiplica.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Soma_ou_Multiplica\Soma_ou_Multiplica\bin\Debug\Soma_ou_Multiplica.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Soma_ou_Multiplica\Soma_ou_Multiplica\obj\Debug\Soma_ou_Multiplica.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Soma_ou_Multiplica\Soma_ou_Multiplica\obj\Debug\Soma_ou_Multiplica.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Soma_ou_Multiplica\Soma_ou_Multiplica\obj\Debug\Soma_ou_Multiplica.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Soma_ou_Multiplica\Soma_ou_Multiplica\obj\Debug\Soma_ou_Multiplica.pdb

@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Verdadeiro_ou_Falso\Verdadeiro_ou_Falso\obj\Debug\Verdadeiro_ou_Falso.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Verdadeiro_ou_Falso\Verdadeiro_ou_Falso\obj\Debug\Verdadeiro_ou_Falso.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Verdadeiro_ou_Falso\Verdadeiro_ou_Falso\bin\Debug\Verdadeiro_ou_Falso.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Verdadeiro_ou_Falso\Verdadeiro_ou_Falso\bin\Debug\Verdadeiro_ou_Falso.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Verdadeiro_ou_Falso\Verdadeiro_ou_Falso\bin\Debug\Verdadeiro_ou_Falso.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Verdadeiro_ou_Falso\Verdadeiro_ou_Falso\obj\Debug\Verdadeiro_ou_Falso.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Verdadeiro_ou_Falso\Verdadeiro_ou_Falso\obj\Debug\Verdadeiro_ou_Falso.pdb

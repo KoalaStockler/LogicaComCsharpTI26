@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\Soma_ou_Multiplica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E249A602-DD9C-4795-B578-68E4A32C03D7}|Soma_ou_Multiplica\\Soma_ou_Multiplica.csproj|c:\\users\\keno.wsmramos\\source\\repos\\logicacomcsharp\\logicacomcsharpti26\\soma_ou_multiplica\\soma_ou_multiplica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E249A602-DD9C-4795-B578-68E4A32C03D7}|Soma_ou_Multiplica\\Soma_ou_Multiplica.csproj|solutionrelative:soma_ou_multiplica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\Soma_ou_Multiplica\\Soma_ou_Multiplica\\Program.cs",
+              "RelativeDocumentMoniker": "Soma_ou_Multiplica\\Program.cs",
+              "ToolTip": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\Soma_ou_Multiplica\\Soma_ou_Multiplica\\Program.cs",
+              "RelativeToolTip": "Soma_ou_Multiplica\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:41:41.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\IMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AD43D5-DFFF-4D53-8779-B9CFE2551FFA}|IMC\\IMC.csproj|c:\\users\\keno.wsmramos\\source\\repos\\logicacomcsharp\\logicacomcsharpti26\\imc\\imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AD43D5-DFFF-4D53-8779-B9CFE2551FFA}|IMC\\IMC.csproj|solutionrelative:imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\IMC\\IMC\\Program.cs",
+              "RelativeDocumentMoniker": "IMC\\Program.cs",
+              "ToolTip": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\IMC\\IMC\\Program.cs",
+              "RelativeToolTip": "IMC\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:27:21.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
