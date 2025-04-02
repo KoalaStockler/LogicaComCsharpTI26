@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Exercicios03\\Quantidade_anos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90529D61-EB8A-41C9-A51B-3A28B1373F3A}|Quantidade_anos\\Quantidade_anos.csproj|c:\\users\\victor.cneto1\\source\\repos\\logicacomcsharp\\logicacomcsharp\\exercicios03\\quantidade_anos\\quantidade_anos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90529D61-EB8A-41C9-A51B-3A28B1373F3A}|Quantidade_anos\\Quantidade_anos.csproj|solutionrelative:quantidade_anos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Exercicios03\\Quantidade_anos\\Quantidade_anos\\Program.cs",
+              "RelativeDocumentMoniker": "Quantidade_anos\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Exercicios03\\Quantidade_anos\\Quantidade_anos\\Program.cs",
+              "RelativeToolTip": "Quantidade_anos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:46:52.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

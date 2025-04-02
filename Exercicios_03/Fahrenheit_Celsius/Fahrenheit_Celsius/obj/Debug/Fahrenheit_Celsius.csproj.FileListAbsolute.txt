@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Exercicios03\Fahrenheit_Celsius\Fahrenheit_Celsius\bin\Debug\Fahrenheit_Celsius.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Exercicios03\Fahrenheit_Celsius\Fahrenheit_Celsius\bin\Debug\Fahrenheit_Celsius.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Exercicios03\Fahrenheit_Celsius\Fahrenheit_Celsius\bin\Debug\Fahrenheit_Celsius.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Exercicios03\Fahrenheit_Celsius\Fahrenheit_Celsius\obj\Debug\Fahrenheit_Celsius.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Exercicios03\Fahrenheit_Celsius\Fahrenheit_Celsius\obj\Debug\Fahrenheit_Celsius.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Exercicios03\Fahrenheit_Celsius\Fahrenheit_Celsius\obj\Debug\Fahrenheit_Celsius.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Exercicios03\Fahrenheit_Celsius\Fahrenheit_Celsius\obj\Debug\Fahrenheit_Celsius.pdb
