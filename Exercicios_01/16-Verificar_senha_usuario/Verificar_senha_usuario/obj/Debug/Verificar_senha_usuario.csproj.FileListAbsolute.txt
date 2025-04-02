@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_senha_usuario\Verificar_senha_usuario\bin\Debug\Verificar_senha_usuario.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_senha_usuario\Verificar_senha_usuario\bin\Debug\Verificar_senha_usuario.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_senha_usuario\Verificar_senha_usuario\bin\Debug\Verificar_senha_usuario.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_senha_usuario\Verificar_senha_usuario\obj\Debug\Verificar_senha_usuario.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_senha_usuario\Verificar_senha_usuario\obj\Debug\Verificar_senha_usuario.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_senha_usuario\Verificar_senha_usuario\obj\Debug\Verificar_senha_usuario.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_senha_usuario\Verificar_senha_usuario\obj\Debug\Verificar_senha_usuario.pdb

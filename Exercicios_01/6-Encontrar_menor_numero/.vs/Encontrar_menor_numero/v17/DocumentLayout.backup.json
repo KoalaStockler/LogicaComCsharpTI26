@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Encontrar_menor_numero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A90DF8A2-650D-40B5-B8B3-3AE0BE830904}|Encontrar_menor_numero\\Encontrar_menor_numero.csproj|c:\\users\\victor.cneto1\\source\\repos\\logicacomcsharp\\logicacomcsharp\\encontrar_menor_numero\\encontrar_menor_numero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90DF8A2-650D-40B5-B8B3-3AE0BE830904}|Encontrar_menor_numero\\Encontrar_menor_numero.csproj|solutionrelative:encontrar_menor_numero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Encontrar_menor_numero\\Encontrar_menor_numero\\Program.cs",
+              "RelativeDocumentMoniker": "Encontrar_menor_numero\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Encontrar_menor_numero\\Encontrar_menor_numero\\Program.cs",
+              "RelativeToolTip": "Encontrar_menor_numero\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:06:33.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

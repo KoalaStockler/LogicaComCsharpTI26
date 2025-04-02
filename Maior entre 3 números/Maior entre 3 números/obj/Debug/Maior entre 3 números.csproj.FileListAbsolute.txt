@@ -1,7 +1,0 @@
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Maior entre 3 números\Maior entre 3 números\bin\Debug\Maior entre 3 números.exe.config
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Maior entre 3 números\Maior entre 3 números\bin\Debug\Maior entre 3 números.exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Maior entre 3 números\Maior entre 3 números\bin\Debug\Maior entre 3 números.pdb
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Maior entre 3 números\Maior entre 3 números\obj\Debug\Maior entre 3 números.csproj.AssemblyReference.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Maior entre 3 números\Maior entre 3 números\obj\Debug\Maior entre 3 números.csproj.CoreCompileInputs.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Maior entre 3 números\Maior entre 3 números\obj\Debug\Maior entre 3 números.exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Maior entre 3 números\Maior entre 3 números\obj\Debug\Maior entre 3 números.pdb

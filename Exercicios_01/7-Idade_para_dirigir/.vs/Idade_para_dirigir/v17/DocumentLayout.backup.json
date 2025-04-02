@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Idade_para_dirigir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7714AD1-E41C-4FBB-8B84-DA92D61BBD0B}|Idade_para_dirigir\\Idade_para_dirigir.csproj|c:\\users\\victor.cneto1\\source\\repos\\logicacomcsharp\\logicacomcsharp\\idade_para_dirigir\\idade_para_dirigir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7714AD1-E41C-4FBB-8B84-DA92D61BBD0B}|Idade_para_dirigir\\Idade_para_dirigir.csproj|solutionrelative:idade_para_dirigir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Idade_para_dirigir\\Idade_para_dirigir\\Program.cs",
+              "RelativeDocumentMoniker": "Idade_para_dirigir\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Idade_para_dirigir\\Idade_para_dirigir\\Program.cs",
+              "RelativeToolTip": "Idade_para_dirigir\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:10:16.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

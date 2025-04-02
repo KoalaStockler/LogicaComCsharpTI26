@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_perna_maior\Verificar_perna_maior\bin\Debug\Verificar_perna_maior.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_perna_maior\Verificar_perna_maior\bin\Debug\Verificar_perna_maior.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_perna_maior\Verificar_perna_maior\bin\Debug\Verificar_perna_maior.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_perna_maior\Verificar_perna_maior\obj\Debug\Verificar_perna_maior.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_perna_maior\Verificar_perna_maior\obj\Debug\Verificar_perna_maior.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_perna_maior\Verificar_perna_maior\obj\Debug\Verificar_perna_maior.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_perna_maior\Verificar_perna_maior\obj\Debug\Verificar_perna_maior.pdb

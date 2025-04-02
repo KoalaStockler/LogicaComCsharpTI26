@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Dia_da_Semana\Dia_da_Semana\obj\Debug\Dia_da_Semana.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Dia_da_Semana\Dia_da_Semana\obj\Debug\Dia_da_Semana.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Dia_da_Semana\Dia_da_Semana\bin\Debug\Dia_da_Semana.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Dia_da_Semana\Dia_da_Semana\bin\Debug\Dia_da_Semana.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Dia_da_Semana\Dia_da_Semana\bin\Debug\Dia_da_Semana.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Dia_da_Semana\Dia_da_Semana\obj\Debug\Dia_da_Semana.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Dia_da_Semana\Dia_da_Semana\obj\Debug\Dia_da_Semana.pdb

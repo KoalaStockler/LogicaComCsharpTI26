@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Numero_postivo_ou_negativo\Numero_postivo_ou_negativo\obj\Debug\Numero_postivo_ou_negativo.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Numero_postivo_ou_negativo\Numero_postivo_ou_negativo\obj\Debug\Numero_postivo_ou_negativo.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Numero_postivo_ou_negativo\Numero_postivo_ou_negativo\bin\Debug\Numero_postivo_ou_negativo.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Numero_postivo_ou_negativo\Numero_postivo_ou_negativo\bin\Debug\Numero_postivo_ou_negativo.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Numero_postivo_ou_negativo\Numero_postivo_ou_negativo\bin\Debug\Numero_postivo_ou_negativo.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Numero_postivo_ou_negativo\Numero_postivo_ou_negativo\obj\Debug\Numero_postivo_ou_negativo.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Numero_postivo_ou_negativo\Numero_postivo_ou_negativo\obj\Debug\Numero_postivo_ou_negativo.pdb

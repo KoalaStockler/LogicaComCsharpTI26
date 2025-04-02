@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Soma_ou_multiplicação\Soma_ou_multiplicação\bin\Debug\Soma_ou_multiplicação.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Soma_ou_multiplicação\Soma_ou_multiplicação\bin\Debug\Soma_ou_multiplicação.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Soma_ou_multiplicação\Soma_ou_multiplicação\bin\Debug\Soma_ou_multiplicação.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Soma_ou_multiplicação\Soma_ou_multiplicação\obj\Debug\Soma_ou_multiplicação.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Soma_ou_multiplicação\Soma_ou_multiplicação\obj\Debug\Soma_ou_multiplicação.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Soma_ou_multiplicação\Soma_ou_multiplicação\obj\Debug\Soma_ou_multiplicação.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Soma_ou_multiplicação\Soma_ou_multiplicação\obj\Debug\Soma_ou_multiplicação.pdb

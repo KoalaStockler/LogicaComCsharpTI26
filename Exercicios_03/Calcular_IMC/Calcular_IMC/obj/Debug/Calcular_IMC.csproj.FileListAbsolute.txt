@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calcular_IMC\Calcular_IMC\bin\Debug\Calcular_IMC.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calcular_IMC\Calcular_IMC\bin\Debug\Calcular_IMC.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calcular_IMC\Calcular_IMC\bin\Debug\Calcular_IMC.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calcular_IMC\Calcular_IMC\obj\Debug\Calcular_IMC.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calcular_IMC\Calcular_IMC\obj\Debug\Calcular_IMC.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calcular_IMC\Calcular_IMC\obj\Debug\Calcular_IMC.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calcular_IMC\Calcular_IMC\obj\Debug\Calcular_IMC.pdb

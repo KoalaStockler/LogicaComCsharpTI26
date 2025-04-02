@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Pares_While\Pares_While\bin\Debug\Pares_While.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Pares_While\Pares_While\bin\Debug\Pares_While.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Pares_While\Pares_While\bin\Debug\Pares_While.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Pares_While\Pares_While\obj\Debug\Pares_While.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Pares_While\Pares_While\obj\Debug\Pares_While.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Pares_While\Pares_While\obj\Debug\Pares_While.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Pares_While\Pares_While\obj\Debug\Pares_While.pdb

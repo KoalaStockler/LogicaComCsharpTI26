@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_temperatura\Verificar_temperatura\bin\Debug\Verificar_temperatura.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_temperatura\Verificar_temperatura\bin\Debug\Verificar_temperatura.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_temperatura\Verificar_temperatura\bin\Debug\Verificar_temperatura.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_temperatura\Verificar_temperatura\obj\Debug\Verificar_temperatura.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_temperatura\Verificar_temperatura\obj\Debug\Verificar_temperatura.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_temperatura\Verificar_temperatura\obj\Debug\Verificar_temperatura.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Verificar_temperatura\Verificar_temperatura\obj\Debug\Verificar_temperatura.pdb

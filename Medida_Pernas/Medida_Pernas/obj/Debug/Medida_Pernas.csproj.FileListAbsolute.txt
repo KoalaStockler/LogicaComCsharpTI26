@@ -1,7 +1,0 @@
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Medida_Pernas\Medida_Pernas\bin\Debug\Medida_Pernas.exe.config
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Medida_Pernas\Medida_Pernas\bin\Debug\Medida_Pernas.exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Medida_Pernas\Medida_Pernas\bin\Debug\Medida_Pernas.pdb
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Medida_Pernas\Medida_Pernas\obj\Debug\Medida_Pernas.csproj.AssemblyReference.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Medida_Pernas\Medida_Pernas\obj\Debug\Medida_Pernas.csproj.CoreCompileInputs.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Medida_Pernas\Medida_Pernas\obj\Debug\Medida_Pernas.exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Medida_Pernas\Medida_Pernas\obj\Debug\Medida_Pernas.pdb

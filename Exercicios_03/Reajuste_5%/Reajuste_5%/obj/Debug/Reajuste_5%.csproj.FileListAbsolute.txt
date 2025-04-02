@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Reajuste_5%\Reajuste_5%\bin\Debug\Reajuste_5%.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Reajuste_5%\Reajuste_5%\bin\Debug\Reajuste_5%.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Reajuste_5%\Reajuste_5%\bin\Debug\Reajuste_5%.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Reajuste_5%\Reajuste_5%\obj\Debug\Reajuste_5%.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Reajuste_5%\Reajuste_5%\obj\Debug\Reajuste_5%.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Reajuste_5%\Reajuste_5%\obj\Debug\Reajuste_5%.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Reajuste_5%\Reajuste_5%\obj\Debug\Reajuste_5%.pdb

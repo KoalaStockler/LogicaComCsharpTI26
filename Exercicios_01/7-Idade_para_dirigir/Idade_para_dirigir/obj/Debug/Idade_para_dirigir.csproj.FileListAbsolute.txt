@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Idade_para_dirigir\Idade_para_dirigir\bin\Debug\Idade_para_dirigir.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Idade_para_dirigir\Idade_para_dirigir\bin\Debug\Idade_para_dirigir.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Idade_para_dirigir\Idade_para_dirigir\bin\Debug\Idade_para_dirigir.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Idade_para_dirigir\Idade_para_dirigir\obj\Debug\Idade_para_dirigir.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Idade_para_dirigir\Idade_para_dirigir\obj\Debug\Idade_para_dirigir.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Idade_para_dirigir\Idade_para_dirigir\obj\Debug\Idade_para_dirigir.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Idade_para_dirigir\Idade_para_dirigir\obj\Debug\Idade_para_dirigir.pdb

@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Valores_boolean\Valores_boolean\bin\Debug\Valores_boolean.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Valores_boolean\Valores_boolean\bin\Debug\Valores_boolean.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Valores_boolean\Valores_boolean\bin\Debug\Valores_boolean.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Valores_boolean\Valores_boolean\obj\Debug\Valores_boolean.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Valores_boolean\Valores_boolean\obj\Debug\Valores_boolean.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Valores_boolean\Valores_boolean\obj\Debug\Valores_boolean.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Valores_boolean\Valores_boolean\obj\Debug\Valores_boolean.pdb

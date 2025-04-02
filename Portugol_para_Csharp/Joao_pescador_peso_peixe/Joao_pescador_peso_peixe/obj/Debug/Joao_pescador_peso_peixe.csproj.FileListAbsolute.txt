@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Joao_pescador_peso_peixe\Joao_pescador_peso_peixe\bin\Debug\Joao_pescador_peso_peixe.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Joao_pescador_peso_peixe\Joao_pescador_peso_peixe\bin\Debug\Joao_pescador_peso_peixe.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Joao_pescador_peso_peixe\Joao_pescador_peso_peixe\bin\Debug\Joao_pescador_peso_peixe.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Joao_pescador_peso_peixe\Joao_pescador_peso_peixe\obj\Debug\Joao_pescador_peso_peixe.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Joao_pescador_peso_peixe\Joao_pescador_peso_peixe\obj\Debug\Joao_pescador_peso_peixe.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Joao_pescador_peso_peixe\Joao_pescador_peso_peixe\obj\Debug\Joao_pescador_peso_peixe.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Joao_pescador_peso_peixe\Joao_pescador_peso_peixe\obj\Debug\Joao_pescador_peso_peixe.pdb

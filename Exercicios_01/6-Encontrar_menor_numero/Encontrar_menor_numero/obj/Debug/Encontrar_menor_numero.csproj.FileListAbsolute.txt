@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Encontrar_menor_numero\Encontrar_menor_numero\bin\Debug\Encontrar_menor_numero.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Encontrar_menor_numero\Encontrar_menor_numero\bin\Debug\Encontrar_menor_numero.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Encontrar_menor_numero\Encontrar_menor_numero\bin\Debug\Encontrar_menor_numero.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Encontrar_menor_numero\Encontrar_menor_numero\obj\Debug\Encontrar_menor_numero.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Encontrar_menor_numero\Encontrar_menor_numero\obj\Debug\Encontrar_menor_numero.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Encontrar_menor_numero\Encontrar_menor_numero\obj\Debug\Encontrar_menor_numero.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Encontrar_menor_numero\Encontrar_menor_numero\obj\Debug\Encontrar_menor_numero.pdb

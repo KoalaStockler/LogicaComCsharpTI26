@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Posicao_de_um_numero\Posicao_de_um_numero\bin\Debug\Posicao_de_um_numero.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Posicao_de_um_numero\Posicao_de_um_numero\bin\Debug\Posicao_de_um_numero.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Posicao_de_um_numero\Posicao_de_um_numero\bin\Debug\Posicao_de_um_numero.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Posicao_de_um_numero\Posicao_de_um_numero\obj\Debug\Posicao_de_um_numero.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Posicao_de_um_numero\Posicao_de_um_numero\obj\Debug\Posicao_de_um_numero.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Posicao_de_um_numero\Posicao_de_um_numero\obj\Debug\Posicao_de_um_numero.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Posicao_de_um_numero\Posicao_de_um_numero\obj\Debug\Posicao_de_um_numero.pdb

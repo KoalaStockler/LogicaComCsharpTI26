@@ -1,7 +1,0 @@
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\bin\Debug\Calculo_de_Idade.exe.config
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\bin\Debug\Calculo_de_Idade.exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\bin\Debug\Calculo_de_Idade.pdb
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\obj\Debug\Calculo_de_Idade.csproj.AssemblyReference.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\obj\Debug\Calculo_de_Idade.csproj.CoreCompileInputs.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\obj\Debug\Calculo_de_Idade.exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Calculo_de_Idade\Calculo_de_Idade\obj\Debug\Calculo_de_Idade.pdb

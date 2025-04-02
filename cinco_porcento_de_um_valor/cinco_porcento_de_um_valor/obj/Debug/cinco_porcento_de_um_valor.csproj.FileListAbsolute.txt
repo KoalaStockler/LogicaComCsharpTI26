@@ -1,7 +1,0 @@
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\cinco_porcento_de_um_valor\cinco_porcento_de_um_valor\bin\Debug\cinco_porcento_de_um_valor.exe.config
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\cinco_porcento_de_um_valor\cinco_porcento_de_um_valor\bin\Debug\cinco_porcento_de_um_valor.exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\cinco_porcento_de_um_valor\cinco_porcento_de_um_valor\bin\Debug\cinco_porcento_de_um_valor.pdb
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\cinco_porcento_de_um_valor\cinco_porcento_de_um_valor\obj\Debug\cinco_porcento_de_um_valor.csproj.AssemblyReference.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\cinco_porcento_de_um_valor\cinco_porcento_de_um_valor\obj\Debug\cinco_porcento_de_um_valor.csproj.CoreCompileInputs.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\cinco_porcento_de_um_valor\cinco_porcento_de_um_valor\obj\Debug\cinco_porcento_de_um_valor.exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\cinco_porcento_de_um_valor\cinco_porcento_de_um_valor\obj\Debug\cinco_porcento_de_um_valor.pdb

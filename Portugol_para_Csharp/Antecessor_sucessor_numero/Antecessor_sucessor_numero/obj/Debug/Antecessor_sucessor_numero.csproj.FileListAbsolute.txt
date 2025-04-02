@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Antecessor_sucessor_numero\Antecessor_sucessor_numero\bin\Debug\Antecessor_sucessor_numero.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Antecessor_sucessor_numero\Antecessor_sucessor_numero\bin\Debug\Antecessor_sucessor_numero.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Antecessor_sucessor_numero\Antecessor_sucessor_numero\bin\Debug\Antecessor_sucessor_numero.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Antecessor_sucessor_numero\Antecessor_sucessor_numero\obj\Debug\Antecessor_sucessor_numero.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Antecessor_sucessor_numero\Antecessor_sucessor_numero\obj\Debug\Antecessor_sucessor_numero.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Antecessor_sucessor_numero\Antecessor_sucessor_numero\obj\Debug\Antecessor_sucessor_numero.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Antecessor_sucessor_numero\Antecessor_sucessor_numero\obj\Debug\Antecessor_sucessor_numero.pdb

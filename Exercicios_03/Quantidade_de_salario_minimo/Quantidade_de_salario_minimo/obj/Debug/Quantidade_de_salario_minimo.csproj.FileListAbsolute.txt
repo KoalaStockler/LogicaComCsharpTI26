@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Quantidade_de_salario_minimo\Quantidade_de_salario_minimo\bin\Debug\Quantidade_de_salario_minimo.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Quantidade_de_salario_minimo\Quantidade_de_salario_minimo\bin\Debug\Quantidade_de_salario_minimo.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Quantidade_de_salario_minimo\Quantidade_de_salario_minimo\bin\Debug\Quantidade_de_salario_minimo.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Quantidade_de_salario_minimo\Quantidade_de_salario_minimo\obj\Debug\Quantidade_de_salario_minimo.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Quantidade_de_salario_minimo\Quantidade_de_salario_minimo\obj\Debug\Quantidade_de_salario_minimo.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Quantidade_de_salario_minimo\Quantidade_de_salario_minimo\obj\Debug\Quantidade_de_salario_minimo.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Quantidade_de_salario_minimo\Quantidade_de_salario_minimo\obj\Debug\Quantidade_de_salario_minimo.pdb

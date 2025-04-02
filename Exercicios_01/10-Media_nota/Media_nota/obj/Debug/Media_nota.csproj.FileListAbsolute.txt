@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Media_nota\Media_nota\bin\Debug\Media_nota.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Media_nota\Media_nota\bin\Debug\Media_nota.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Media_nota\Media_nota\bin\Debug\Media_nota.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Media_nota\Media_nota\obj\Debug\Media_nota.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Media_nota\Media_nota\obj\Debug\Media_nota.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Media_nota\Media_nota\obj\Debug\Media_nota.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Media_nota\Media_nota\obj\Debug\Media_nota.pdb

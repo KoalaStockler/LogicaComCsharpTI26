@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Pares_While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CC9F8-A614-4FC4-8C01-4B72C040A13F}|Pares_While\\Pares_While.csproj|c:\\users\\victor.cneto1\\source\\repos\\logicacomcsharp\\logicacomcsharp\\pares_while\\pares_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86CC9F8-A614-4FC4-8C01-4B72C040A13F}|Pares_While\\Pares_While.csproj|solutionrelative:pares_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Pares_While\\Pares_While\\Program.cs",
+              "RelativeDocumentMoniker": "Pares_While\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Pares_While\\Pares_While\\Program.cs",
+              "RelativeToolTip": "Pares_While\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:27:29.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

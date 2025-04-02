@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Soma_ou_multiplica\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F15B6329-95C3-4FDB-858F-912B60495D8E}|Soma_ou_multiplica\u00E7\u00E3o\\Soma_ou_multiplica\u00E7\u00E3o.csproj|c:\\users\\victor.cneto1\\source\\repos\\logicacomcsharp\\logicacomcsharp\\soma_ou_multiplica\u00E7\u00E3o\\soma_ou_multiplica\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15B6329-95C3-4FDB-858F-912B60495D8E}|Soma_ou_multiplica\u00E7\u00E3o\\Soma_ou_multiplica\u00E7\u00E3o.csproj|solutionrelative:soma_ou_multiplica\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Soma_ou_multiplica\u00E7\u00E3o\\Soma_ou_multiplica\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Soma_ou_multiplica\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\victor.cneto1\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Soma_ou_multiplica\u00E7\u00E3o\\Soma_ou_multiplica\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Soma_ou_multiplica\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:45:13.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

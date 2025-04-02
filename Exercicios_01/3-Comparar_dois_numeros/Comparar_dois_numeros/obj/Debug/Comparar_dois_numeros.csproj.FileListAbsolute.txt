@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Comparar_dois_numeros\Comparar_dois_numeros\bin\Debug\Comparar_dois_numeros.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Comparar_dois_numeros\Comparar_dois_numeros\bin\Debug\Comparar_dois_numeros.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Comparar_dois_numeros\Comparar_dois_numeros\bin\Debug\Comparar_dois_numeros.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Comparar_dois_numeros\Comparar_dois_numeros\obj\Debug\Comparar_dois_numeros.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Comparar_dois_numeros\Comparar_dois_numeros\obj\Debug\Comparar_dois_numeros.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Comparar_dois_numeros\Comparar_dois_numeros\obj\Debug\Comparar_dois_numeros.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Comparar_dois_numeros\Comparar_dois_numeros\obj\Debug\Comparar_dois_numeros.pdb

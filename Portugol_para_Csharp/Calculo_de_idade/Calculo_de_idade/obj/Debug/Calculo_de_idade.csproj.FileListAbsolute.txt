@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calculo_de_idade\Calculo_de_idade\bin\Debug\Calculo_de_idade.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calculo_de_idade\Calculo_de_idade\bin\Debug\Calculo_de_idade.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calculo_de_idade\Calculo_de_idade\bin\Debug\Calculo_de_idade.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calculo_de_idade\Calculo_de_idade\obj\Debug\Calculo_de_idade.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calculo_de_idade\Calculo_de_idade\obj\Debug\Calculo_de_idade.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calculo_de_idade\Calculo_de_idade\obj\Debug\Calculo_de_idade.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Calculo_de_idade\Calculo_de_idade\obj\Debug\Calculo_de_idade.pdb

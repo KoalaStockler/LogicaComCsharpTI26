@@ -1,7 +1,0 @@
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Números_PARES_(ENQUANTO)\Números_PARES_(ENQUANTO)\bin\Debug\Números_PARES_(ENQUANTO).exe.config
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Números_PARES_(ENQUANTO)\Números_PARES_(ENQUANTO)\bin\Debug\Números_PARES_(ENQUANTO).exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Números_PARES_(ENQUANTO)\Números_PARES_(ENQUANTO)\bin\Debug\Números_PARES_(ENQUANTO).pdb
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Números_PARES_(ENQUANTO)\Números_PARES_(ENQUANTO)\obj\Debug\Números_PARES_(ENQUANTO).csproj.AssemblyReference.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Números_PARES_(ENQUANTO)\Números_PARES_(ENQUANTO)\obj\Debug\Números_PARES_(ENQUANTO).csproj.CoreCompileInputs.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Números_PARES_(ENQUANTO)\Números_PARES_(ENQUANTO)\obj\Debug\Números_PARES_(ENQUANTO).exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Números_PARES_(ENQUANTO)\Números_PARES_(ENQUANTO)\obj\Debug\Números_PARES_(ENQUANTO).pdb

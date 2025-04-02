@@ -1,0 +1,7 @@
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Compra_de_ingresso\Compra_de_ingresso\bin\Debug\Compra_de_ingresso.exe.config
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Compra_de_ingresso\Compra_de_ingresso\bin\Debug\Compra_de_ingresso.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Compra_de_ingresso\Compra_de_ingresso\bin\Debug\Compra_de_ingresso.pdb
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Compra_de_ingresso\Compra_de_ingresso\obj\Debug\Compra_de_ingresso.csproj.AssemblyReference.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Compra_de_ingresso\Compra_de_ingresso\obj\Debug\Compra_de_ingresso.csproj.CoreCompileInputs.cache
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Compra_de_ingresso\Compra_de_ingresso\obj\Debug\Compra_de_ingresso.exe
+C:\Users\victor.cneto1\source\repos\LogicaComCsharp\LogicaComCsharp\Compra_de_ingresso\Compra_de_ingresso\obj\Debug\Compra_de_ingresso.pdb
