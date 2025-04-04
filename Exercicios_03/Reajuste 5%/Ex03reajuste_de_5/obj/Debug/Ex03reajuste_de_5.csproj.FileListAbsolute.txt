@@ -1,0 +1,14 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03reajuste_de_5\Ex03reajuste_de_5\bin\Debug\Ex03reajuste_de_5.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03reajuste_de_5\Ex03reajuste_de_5\bin\Debug\Ex03reajuste_de_5.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03reajuste_de_5\Ex03reajuste_de_5\bin\Debug\Ex03reajuste_de_5.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03reajuste_de_5\Ex03reajuste_de_5\obj\Debug\Ex03reajuste_de_5.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03reajuste_de_5\Ex03reajuste_de_5\obj\Debug\Ex03reajuste_de_5.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03reajuste_de_5\Ex03reajuste_de_5\obj\Debug\Ex03reajuste_de_5.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03reajuste_de_5\Ex03reajuste_de_5\obj\Debug\Ex03reajuste_de_5.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03\Ex03reajuste_de_5\Ex03reajuste_de_5\bin\Debug\Ex03reajuste_de_5.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03\Ex03reajuste_de_5\Ex03reajuste_de_5\bin\Debug\Ex03reajuste_de_5.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03\Ex03reajuste_de_5\Ex03reajuste_de_5\bin\Debug\Ex03reajuste_de_5.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03\Ex03reajuste_de_5\Ex03reajuste_de_5\obj\Debug\Ex03reajuste_de_5.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03\Ex03reajuste_de_5\Ex03reajuste_de_5\obj\Debug\Ex03reajuste_de_5.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03\Ex03reajuste_de_5\Ex03reajuste_de_5\obj\Debug\Ex03reajuste_de_5.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex03\Ex03reajuste_de_5\Ex03reajuste_de_5\obj\Debug\Ex03reajuste_de_5.pdb

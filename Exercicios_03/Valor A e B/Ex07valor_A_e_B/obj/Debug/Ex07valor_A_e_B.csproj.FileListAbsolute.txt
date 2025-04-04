@@ -1,0 +1,14 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex07valor_A_e_B\Ex07valor_A_e_B\bin\Debug\Ex07valor_A_e_B.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex07valor_A_e_B\Ex07valor_A_e_B\bin\Debug\Ex07valor_A_e_B.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex07valor_A_e_B\Ex07valor_A_e_B\bin\Debug\Ex07valor_A_e_B.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex07valor_A_e_B\Ex07valor_A_e_B\obj\Debug\Ex07valor_A_e_B.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex07valor_A_e_B\Ex07valor_A_e_B\obj\Debug\Ex07valor_A_e_B.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex07valor_A_e_B\Ex07valor_A_e_B\obj\Debug\Ex07valor_A_e_B.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex07valor_A_e_B\Ex07valor_A_e_B\obj\Debug\Ex07valor_A_e_B.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex07\Ex07valor_A_e_B\Ex07valor_A_e_B\bin\Debug\Ex07valor_A_e_B.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex07\Ex07valor_A_e_B\Ex07valor_A_e_B\bin\Debug\Ex07valor_A_e_B.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex07\Ex07valor_A_e_B\Ex07valor_A_e_B\bin\Debug\Ex07valor_A_e_B.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex07\Ex07valor_A_e_B\Ex07valor_A_e_B\obj\Debug\Ex07valor_A_e_B.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex07\Ex07valor_A_e_B\Ex07valor_A_e_B\obj\Debug\Ex07valor_A_e_B.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex07\Ex07valor_A_e_B\Ex07valor_A_e_B\obj\Debug\Ex07valor_A_e_B.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex07\Ex07valor_A_e_B\Ex07valor_A_e_B\obj\Debug\Ex07valor_A_e_B.pdb

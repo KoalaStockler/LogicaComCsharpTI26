@@ -1,0 +1,14 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05calcule_o_IMC\Ex05calcule_o_IMC\bin\Debug\Ex05calcule_o_IMC.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05calcule_o_IMC\Ex05calcule_o_IMC\bin\Debug\Ex05calcule_o_IMC.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05calcule_o_IMC\Ex05calcule_o_IMC\bin\Debug\Ex05calcule_o_IMC.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05calcule_o_IMC\Ex05calcule_o_IMC\obj\Debug\Ex05calcule_o_IMC.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05calcule_o_IMC\Ex05calcule_o_IMC\obj\Debug\Ex05calcule_o_IMC.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05calcule_o_IMC\Ex05calcule_o_IMC\obj\Debug\Ex05calcule_o_IMC.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex05calcule_o_IMC\Ex05calcule_o_IMC\obj\Debug\Ex05calcule_o_IMC.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex05\Ex05calcule_o_IMC\Ex05calcule_o_IMC\bin\Debug\Ex05calcule_o_IMC.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex05\Ex05calcule_o_IMC\Ex05calcule_o_IMC\bin\Debug\Ex05calcule_o_IMC.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex05\Ex05calcule_o_IMC\Ex05calcule_o_IMC\bin\Debug\Ex05calcule_o_IMC.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex05\Ex05calcule_o_IMC\Ex05calcule_o_IMC\obj\Debug\Ex05calcule_o_IMC.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex05\Ex05calcule_o_IMC\Ex05calcule_o_IMC\obj\Debug\Ex05calcule_o_IMC.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex05\Ex05calcule_o_IMC\Ex05calcule_o_IMC\obj\Debug\Ex05calcule_o_IMC.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex05\Ex05calcule_o_IMC\Ex05calcule_o_IMC\obj\Debug\Ex05calcule_o_IMC.pdb

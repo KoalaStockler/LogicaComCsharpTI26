@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\12_exercicios_teams\\Ex11\\Ex11calculo_do_salario_liquido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A929D47-7FB1-41B9-AF0E-761F46D39266}|Ex11calculo_do_salario_liquido\\Ex11calculo_do_salario_liquido.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\logicacomcsharp\\logicacomcsharp\\12_exercicios_teams\\ex11\\ex11calculo_do_salario_liquido\\ex11calculo_do_salario_liquido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A929D47-7FB1-41B9-AF0E-761F46D39266}|Ex11calculo_do_salario_liquido\\Ex11calculo_do_salario_liquido.csproj|solutionrelative:ex11calculo_do_salario_liquido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\12_exercicios_teams\\Ex11\\Ex11calculo_do_salario_liquido\\Ex11calculo_do_salario_liquido\\Program.cs",
+              "RelativeDocumentMoniker": "Ex11calculo_do_salario_liquido\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\12_exercicios_teams\\Ex11\\Ex11calculo_do_salario_liquido\\Ex11calculo_do_salario_liquido\\Program.cs",
+              "RelativeToolTip": "Ex11calculo_do_salario_liquido\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wCoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:45:13.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

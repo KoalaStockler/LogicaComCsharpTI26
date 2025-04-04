@@ -1,0 +1,7 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex08\Ex08uma_pessoa_nasceu\Ex08uma_pessoa_nasceu\obj\Debug\Ex08uma_pessoa_nasceu.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex08\Ex08uma_pessoa_nasceu\Ex08uma_pessoa_nasceu\obj\Debug\Ex08uma_pessoa_nasceu.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex08\Ex08uma_pessoa_nasceu\Ex08uma_pessoa_nasceu\bin\Debug\Ex08uma_pessoa_nasceu.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex08\Ex08uma_pessoa_nasceu\Ex08uma_pessoa_nasceu\bin\Debug\Ex08uma_pessoa_nasceu.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex08\Ex08uma_pessoa_nasceu\Ex08uma_pessoa_nasceu\bin\Debug\Ex08uma_pessoa_nasceu.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex08\Ex08uma_pessoa_nasceu\Ex08uma_pessoa_nasceu\obj\Debug\Ex08uma_pessoa_nasceu.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex08\Ex08uma_pessoa_nasceu\Ex08uma_pessoa_nasceu\obj\Debug\Ex08uma_pessoa_nasceu.pdb

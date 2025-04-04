@@ -1,0 +1,14 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\obj\Debug\Ex04dois_valores_booleanos.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\obj\Debug\Ex04dois_valores_booleanos.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\bin\Debug\Ex04dois_valores_booleanos.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\bin\Debug\Ex04dois_valores_booleanos.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\bin\Debug\Ex04dois_valores_booleanos.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\obj\Debug\Ex04dois_valores_booleanos.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\obj\Debug\Ex04dois_valores_booleanos.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\bin\Debug\Ex04dois_valores_booleanos.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\bin\Debug\Ex04dois_valores_booleanos.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\bin\Debug\Ex04dois_valores_booleanos.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\obj\Debug\Ex04dois_valores_booleanos.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\obj\Debug\Ex04dois_valores_booleanos.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\obj\Debug\Ex04dois_valores_booleanos.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex04\Ex04dois_valores_booleanos\Ex04dois_valores_booleanos\obj\Debug\Ex04dois_valores_booleanos.pdb

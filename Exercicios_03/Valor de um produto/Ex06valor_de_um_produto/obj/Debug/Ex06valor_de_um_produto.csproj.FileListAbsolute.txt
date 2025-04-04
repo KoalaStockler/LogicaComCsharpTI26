@@ -1,0 +1,14 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06valor_de_um_produto\Ex06valor_de_um_produto\bin\Debug\Ex06valor_de_um_produto.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06valor_de_um_produto\Ex06valor_de_um_produto\bin\Debug\Ex06valor_de_um_produto.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06valor_de_um_produto\Ex06valor_de_um_produto\bin\Debug\Ex06valor_de_um_produto.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06valor_de_um_produto\Ex06valor_de_um_produto\obj\Debug\Ex06valor_de_um_produto.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06valor_de_um_produto\Ex06valor_de_um_produto\obj\Debug\Ex06valor_de_um_produto.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06valor_de_um_produto\Ex06valor_de_um_produto\obj\Debug\Ex06valor_de_um_produto.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\Ex repetição\Ex04\Ex06valor_de_um_produto\Ex06valor_de_um_produto\obj\Debug\Ex06valor_de_um_produto.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex06\Ex06valor_de_um_produto\Ex06valor_de_um_produto\bin\Debug\Ex06valor_de_um_produto.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex06\Ex06valor_de_um_produto\Ex06valor_de_um_produto\bin\Debug\Ex06valor_de_um_produto.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex06\Ex06valor_de_um_produto\Ex06valor_de_um_produto\bin\Debug\Ex06valor_de_um_produto.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex06\Ex06valor_de_um_produto\Ex06valor_de_um_produto\obj\Debug\Ex06valor_de_um_produto.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex06\Ex06valor_de_um_produto\Ex06valor_de_um_produto\obj\Debug\Ex06valor_de_um_produto.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex06\Ex06valor_de_um_produto\Ex06valor_de_um_produto\obj\Debug\Ex06valor_de_um_produto.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex06\Ex06valor_de_um_produto\Ex06valor_de_um_produto\obj\Debug\Ex06valor_de_um_produto.pdb

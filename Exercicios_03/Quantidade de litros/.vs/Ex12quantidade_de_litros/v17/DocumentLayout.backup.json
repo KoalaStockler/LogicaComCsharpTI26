@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\12_exercicios_teams\\Ex12\\Ex12quantidade_de_litros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C26585-C40A-4E50-AFCC-5120E52F1C8C}|Ex12quantidade_de_litros\\Ex12quantidade_de_litros.csproj|c:\\users\\pedro.atsantos2\\source\\repos\\logicacomcsharp\\logicacomcsharp\\12_exercicios_teams\\ex12\\ex12quantidade_de_litros\\ex12quantidade_de_litros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C26585-C40A-4E50-AFCC-5120E52F1C8C}|Ex12quantidade_de_litros\\Ex12quantidade_de_litros.csproj|solutionrelative:ex12quantidade_de_litros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\12_exercicios_teams\\Ex12\\Ex12quantidade_de_litros\\Ex12quantidade_de_litros\\Program.cs",
+              "RelativeDocumentMoniker": "Ex12quantidade_de_litros\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.atsantos2\\source\\repos\\LogicaComCSharp\\LogicaComCSharp\\12_exercicios_teams\\Ex12\\Ex12quantidade_de_litros\\Ex12quantidade_de_litros\\Program.cs*",
+              "RelativeToolTip": "Ex12quantidade_de_litros\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:36:52.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

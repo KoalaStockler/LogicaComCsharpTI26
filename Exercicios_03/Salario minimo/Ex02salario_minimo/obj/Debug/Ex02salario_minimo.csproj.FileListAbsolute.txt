@@ -1,0 +1,14 @@
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02salario_minimo\Ex02salario_minimo\obj\Debug\Ex02salario_minimo.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02salario_minimo\Ex02salario_minimo\obj\Debug\Ex02salario_minimo.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02salario_minimo\Ex02salario_minimo\bin\Debug\Ex02salario_minimo.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02salario_minimo\Ex02salario_minimo\bin\Debug\Ex02salario_minimo.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02salario_minimo\Ex02salario_minimo\bin\Debug\Ex02salario_minimo.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02salario_minimo\Ex02salario_minimo\obj\Debug\Ex02salario_minimo.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02salario_minimo\Ex02salario_minimo\obj\Debug\Ex02salario_minimo.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02\Ex02salario_minimo\Ex02salario_minimo\bin\Debug\Ex02salario_minimo.exe.config
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02\Ex02salario_minimo\Ex02salario_minimo\bin\Debug\Ex02salario_minimo.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02\Ex02salario_minimo\Ex02salario_minimo\bin\Debug\Ex02salario_minimo.pdb
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02\Ex02salario_minimo\Ex02salario_minimo\obj\Debug\Ex02salario_minimo.csproj.AssemblyReference.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02\Ex02salario_minimo\Ex02salario_minimo\obj\Debug\Ex02salario_minimo.csproj.CoreCompileInputs.cache
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02\Ex02salario_minimo\Ex02salario_minimo\obj\Debug\Ex02salario_minimo.exe
+C:\Users\pedro.atsantos2\source\repos\LogicaComCSharp\LogicaComCSharp\12_exercicios_teams\Ex02\Ex02salario_minimo\Ex02salario_minimo\obj\Debug\Ex02salario_minimo.pdb
