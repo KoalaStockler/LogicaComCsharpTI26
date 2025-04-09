@@ -5,3 +5,10 @@ C:\Users\keno.wsmramos\source\repos\Estacionamento de Shopping\Estacionamento de
 C:\Users\keno.wsmramos\source\repos\Estacionamento de Shopping\Estacionamento de Shopping\bin\Debug\Estacionamento de Shopping.pdb
 C:\Users\keno.wsmramos\source\repos\Estacionamento de Shopping\Estacionamento de Shopping\obj\Debug\Estacionamento de Shopping.exe
 C:\Users\keno.wsmramos\source\repos\Estacionamento de Shopping\Estacionamento de Shopping\obj\Debug\Estacionamento de Shopping.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estacionamento de Shopping\Estacionamento de Shopping\bin\Debug\Estacionamento de Shopping.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estacionamento de Shopping\Estacionamento de Shopping\bin\Debug\Estacionamento de Shopping.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estacionamento de Shopping\Estacionamento de Shopping\bin\Debug\Estacionamento de Shopping.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estacionamento de Shopping\Estacionamento de Shopping\obj\Debug\Estacionamento de Shopping.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estacionamento de Shopping\Estacionamento de Shopping\obj\Debug\Estacionamento de Shopping.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estacionamento de Shopping\Estacionamento de Shopping\obj\Debug\Estacionamento de Shopping.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Estacionamento de Shopping\Estacionamento de Shopping\obj\Debug\Estacionamento de Shopping.pdb
