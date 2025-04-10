@@ -43,19 +43,19 @@ namespace Menu
                 switch (opcao)
                 {
                     case 1:
-                        Cliente();
+                        CadastrarCliente.Cliente();
                         break;
                     case 2:
-                        Fornecedor();
+                        CadastrarFornecedor.Fornecedor();
                         break;
                     case 3:
-                        Funcionario();
+                        CadastrarFuncionario.Funcionario();
                         break;
                     case 4:
-                        Produto();
+                        CadastrarProduto.Produto();
                         break;
                     case 5:
-                        Pedido();
+                        CadastrarPedido.Pedido();
                         break;
                     case 0:
                         Console.WriteLine("Saindo...");
@@ -71,41 +71,6 @@ namespace Menu
                     Console.ReadKey();
                 }
             }
-        }
-        static void Cliente()
-        {
-            Console.WriteLine("\nCadastro de Cliente");
-            Console.WriteLine("Digite o nome do cliente: ");
-            string nome = Console.ReadLine();
-            Console.WriteLine($"Cliente {nome} Cadastrado com sucesso!");
-        }
-        static void Fornecedor()
-        {
-            Console.WriteLine("Cadastro de Fornecedor");
-            Console.WriteLine("Digite o código do fornecedor");
-            string codigoFornecedor = (Console.ReadLine());
-            Console.WriteLine($"Fornecedor {codigoFornecedor} Cadastrado com sucesso");
-        }
-        static void Funcionario()
-        {
-            Console.WriteLine("Cadastro de Funcionários");
-            Console.WriteLine("Digite o nome do funcionário");
-            string nomeFuncionario = Console.ReadLine();
-            Console.WriteLine($"Funcionário {nomeFuncionario} Cadastrado com sucesso!!");
-        }
-        static void Produto()
-        {
-            Console.WriteLine("\nCadastro do Produto");
-            Console.WriteLine("Digite o nome do produto");
-            string Produto = (Console.ReadLine());
-            Console.WriteLine($"Produto {Produto} Cadastrado com sucesso!!");
-        }
-        static void Pedido()
-        {
-            Console.WriteLine("\nCadastro do Pedido");
-            Console.WriteLine("Digite o código do Pedido");
-            string codigoPedido = (Console.ReadLine());
-            Console.WriteLine($"Pedido {codigoPedido} Cadastrado com sucesso!!");
         }
     }
 }
