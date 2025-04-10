@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\Menu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AD6C25FE-D35A-4821-8B81-0638F04CAB7A}|Menu\\Menu.csproj|c:\\users\\keno.wsmramos\\source\\repos\\logicacomcsharp\\logicacomcsharpti26\\menu\\menu\\cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6C25FE-D35A-4821-8B81-0638F04CAB7A}|Menu\\Menu.csproj|solutionrelative:menu\\cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD6C25FE-D35A-4821-8B81-0638F04CAB7A}|Menu\\Menu.csproj|c:\\users\\keno.wsmramos\\source\\repos\\logicacomcsharp\\logicacomcsharpti26\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD6C25FE-D35A-4821-8B81-0638F04CAB7A}|Menu\\Menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CadastrarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\Menu\\Menu\\CadastrarCliente.cs",
+              "RelativeDocumentMoniker": "Menu\\CadastrarCliente.cs",
+              "ToolTip": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\Menu\\Menu\\CadastrarCliente.cs*",
+              "RelativeToolTip": "Menu\\CadastrarCliente.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:00:57.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\Menu\\Menu\\Program.cs",
               "RelativeDocumentMoniker": "Menu\\Program.cs",
-              "ToolTip": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\Menu\\Menu\\Program.cs",
-              "RelativeToolTip": "Menu\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCwAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharp\\LogicaComCsharpTI26\\Menu\\Menu\\Program.cs*",
+              "RelativeToolTip": "Menu\\Program.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T11:55:51.306Z",
               "EditorCaption": ""

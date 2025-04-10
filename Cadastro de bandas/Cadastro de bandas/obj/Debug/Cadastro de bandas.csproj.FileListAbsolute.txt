@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Cadastro de bandas\Cadastro de bandas\bin\Debug\Cadastro de bandas.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Cadastro de bandas\Cadastro de bandas\bin\Debug\Cadastro de bandas.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Cadastro de bandas\Cadastro de bandas\bin\Debug\Cadastro de bandas.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Cadastro de bandas\Cadastro de bandas\obj\Debug\Cadastro de bandas.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Cadastro de bandas\Cadastro de bandas\obj\Debug\Cadastro de bandas.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Cadastro de bandas\Cadastro de bandas\obj\Debug\Cadastro de bandas.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharp\LogicaComCsharpTI26\Cadastro de bandas\Cadastro de bandas\obj\Debug\Cadastro de bandas.pdb
