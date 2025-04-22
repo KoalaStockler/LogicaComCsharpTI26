@@ -1,7 +1,0 @@
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Numeros Random\Numeros Random\bin\Debug\Numeros Random.exe.config
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Numeros Random\Numeros Random\bin\Debug\Numeros Random.exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Numeros Random\Numeros Random\bin\Debug\Numeros Random.pdb
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Numeros Random\Numeros Random\obj\Debug\Numeros Random.csproj.AssemblyReference.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Numeros Random\Numeros Random\obj\Debug\Numeros Random.csproj.CoreCompileInputs.cache
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Numeros Random\Numeros Random\obj\Debug\Numeros Random.exe
-C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Numeros Random\Numeros Random\obj\Debug\Numeros Random.pdb
