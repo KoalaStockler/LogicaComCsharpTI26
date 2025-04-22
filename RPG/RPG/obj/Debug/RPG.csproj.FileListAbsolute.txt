@@ -1,0 +1,7 @@
+C:\Users\koala\source\repos\LogicaComCsharpTI26\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\koala\source\repos\LogicaComCsharpTI26\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\koala\source\repos\LogicaComCsharpTI26\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\koala\source\repos\LogicaComCsharpTI26\RPG\RPG\obj\Debug\RPG.csproj.AssemblyReference.cache
+C:\Users\koala\source\repos\LogicaComCsharpTI26\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\koala\source\repos\LogicaComCsharpTI26\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\koala\source\repos\LogicaComCsharpTI26\RPG\RPG\obj\Debug\RPG.pdb
