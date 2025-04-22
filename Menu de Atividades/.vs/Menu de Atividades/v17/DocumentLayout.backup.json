@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keno.wsmramos\\source\\repos\\Menu de Atividades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2119A95F-BFD6-4881-ACFC-DC899248FA30}|Menu de Atividades\\Menu de Atividades.csproj|c:\\users\\keno.wsmramos\\source\\repos\\menu de atividades\\menu de atividades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2119A95F-BFD6-4881-ACFC-DC899248FA30}|Menu de Atividades\\Menu de Atividades.csproj|solutionrelative:menu de atividades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2119A95F-BFD6-4881-ACFC-DC899248FA30}|Menu de Atividades\\Menu de Atividades.csproj|c:\\users\\keno.wsmramos\\source\\repos\\menu de atividades\\menu de atividades\\exercicios_01\\executarex01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2119A95F-BFD6-4881-ACFC-DC899248FA30}|Menu de Atividades\\Menu de Atividades.csproj|solutionrelative:menu de atividades\\exercicios_01\\executarex01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2119A95F-BFD6-4881-ACFC-DC899248FA30}|Menu de Atividades\\Menu de Atividades.csproj|c:\\users\\keno.wsmramos\\source\\repos\\menu de atividades\\menu de atividades\\exercicios_01\\calculardesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2119A95F-BFD6-4881-ACFC-DC899248FA30}|Menu de Atividades\\Menu de Atividades.csproj|solutionrelative:menu de atividades\\exercicios_01\\calculardesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2119A95F-BFD6-4881-ACFC-DC899248FA30}|Menu de Atividades\\Menu de Atividades.csproj|c:\\users\\keno.wsmramos\\source\\repos\\menu de atividades\\menu de atividades\\exercicios_01\\anobissexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2119A95F-BFD6-4881-ACFC-DC899248FA30}|Menu de Atividades\\Menu de Atividades.csproj|solutionrelative:menu de atividades\\exercicios_01\\anobissexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keno.wsmramos\\source\\repos\\Menu de Atividades\\Menu de Atividades\\Program.cs",
+              "RelativeDocumentMoniker": "Menu de Atividades\\Program.cs",
+              "ToolTip": "C:\\Users\\keno.wsmramos\\source\\repos\\Menu de Atividades\\Menu de Atividades\\Program.cs",
+              "RelativeToolTip": "Menu de Atividades\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:34:40.52Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcularDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\keno.wsmramos\\source\\repos\\Menu de Atividades\\Menu de Atividades\\Exercicios_01\\CalcularDesconto.cs",
+              "RelativeDocumentMoniker": "Menu de Atividades\\Exercicios_01\\CalcularDesconto.cs",
+              "ToolTip": "C:\\Users\\keno.wsmramos\\source\\repos\\Menu de Atividades\\Menu de Atividades\\Exercicios_01\\CalcularDesconto.cs",
+              "RelativeToolTip": "Menu de Atividades\\Exercicios_01\\CalcularDesconto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:46:25.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnoBissexto.cs",
+              "DocumentMoniker": "C:\\Users\\keno.wsmramos\\source\\repos\\Menu de Atividades\\Menu de Atividades\\Exercicios_01\\AnoBissexto.cs",
+              "RelativeDocumentMoniker": "Menu de Atividades\\Exercicios_01\\AnoBissexto.cs",
+              "ToolTip": "C:\\Users\\keno.wsmramos\\source\\repos\\Menu de Atividades\\Menu de Atividades\\Exercicios_01\\AnoBissexto.cs",
+              "RelativeToolTip": "Menu de Atividades\\Exercicios_01\\AnoBissexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:46:23.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExecutarEx01.cs",
+              "DocumentMoniker": "C:\\Users\\keno.wsmramos\\source\\repos\\Menu de Atividades\\Menu de Atividades\\Exercicios_01\\ExecutarEx01.cs",
+              "RelativeDocumentMoniker": "Menu de Atividades\\Exercicios_01\\ExecutarEx01.cs",
+              "ToolTip": "C:\\Users\\keno.wsmramos\\source\\repos\\Menu de Atividades\\Menu de Atividades\\Exercicios_01\\ExecutarEx01.cs",
+              "RelativeToolTip": "Menu de Atividades\\Exercicios_01\\ExecutarEx01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:46:14.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

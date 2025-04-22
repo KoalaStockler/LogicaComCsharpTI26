@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Pokedex\Pokedex\obj\Debug\Pokedex.pdb

@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\Menu de Atividades\Menu de Atividades\obj\Debug\Menu de Atividades.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\Menu de Atividades\Menu de Atividades\obj\Debug\Menu de Atividades.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\Menu de Atividades\Menu de Atividades\bin\Debug\Menu de Atividades.exe.config
+C:\Users\keno.wsmramos\source\repos\Menu de Atividades\Menu de Atividades\bin\Debug\Menu de Atividades.exe
+C:\Users\keno.wsmramos\source\repos\Menu de Atividades\Menu de Atividades\bin\Debug\Menu de Atividades.pdb
+C:\Users\keno.wsmramos\source\repos\Menu de Atividades\Menu de Atividades\obj\Debug\Menu de Atividades.exe
+C:\Users\keno.wsmramos\source\repos\Menu de Atividades\Menu de Atividades\obj\Debug\Menu de Atividades.pdb
