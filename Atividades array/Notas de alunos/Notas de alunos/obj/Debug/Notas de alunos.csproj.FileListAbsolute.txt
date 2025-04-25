@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de alunos\Notas de alunos\bin\Debug\Notas de alunos.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de alunos\Notas de alunos\bin\Debug\Notas de alunos.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de alunos\Notas de alunos\bin\Debug\Notas de alunos.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de alunos\Notas de alunos\obj\Debug\Notas de alunos.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de alunos\Notas de alunos\obj\Debug\Notas de alunos.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de alunos\Notas de alunos\obj\Debug\Notas de alunos.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de alunos\Notas de alunos\obj\Debug\Notas de alunos.pdb

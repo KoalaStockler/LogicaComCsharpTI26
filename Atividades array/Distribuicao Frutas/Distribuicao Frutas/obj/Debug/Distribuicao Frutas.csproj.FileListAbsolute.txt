@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Distribuicao Frutas\Distribuicao Frutas\bin\Debug\Distribuicao Frutas.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Distribuicao Frutas\Distribuicao Frutas\bin\Debug\Distribuicao Frutas.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Distribuicao Frutas\Distribuicao Frutas\bin\Debug\Distribuicao Frutas.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Distribuicao Frutas\Distribuicao Frutas\obj\Debug\Distribuicao Frutas.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Distribuicao Frutas\Distribuicao Frutas\obj\Debug\Distribuicao Frutas.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Distribuicao Frutas\Distribuicao Frutas\obj\Debug\Distribuicao Frutas.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Distribuicao Frutas\Distribuicao Frutas\obj\Debug\Distribuicao Frutas.pdb

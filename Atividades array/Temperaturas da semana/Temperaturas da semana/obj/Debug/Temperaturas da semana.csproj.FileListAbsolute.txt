@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Temperaturas da semana\Temperaturas da semana\bin\Debug\Temperaturas da semana.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Temperaturas da semana\Temperaturas da semana\bin\Debug\Temperaturas da semana.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Temperaturas da semana\Temperaturas da semana\bin\Debug\Temperaturas da semana.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Temperaturas da semana\Temperaturas da semana\obj\Debug\Temperaturas da semana.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Temperaturas da semana\Temperaturas da semana\obj\Debug\Temperaturas da semana.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Temperaturas da semana\Temperaturas da semana\obj\Debug\Temperaturas da semana.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Temperaturas da semana\Temperaturas da semana\obj\Debug\Temperaturas da semana.pdb

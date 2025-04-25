@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de votacao\Notas de votacao\bin\Debug\Notas de votacao.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de votacao\Notas de votacao\bin\Debug\Notas de votacao.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de votacao\Notas de votacao\bin\Debug\Notas de votacao.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de votacao\Notas de votacao\obj\Debug\Notas de votacao.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de votacao\Notas de votacao\obj\Debug\Notas de votacao.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de votacao\Notas de votacao\obj\Debug\Notas de votacao.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Notas de votacao\Notas de votacao\obj\Debug\Notas de votacao.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharpTI26\\Atividades array\\Notas de votacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12841232-6327-497C-B41A-89C4B6139E9C}|Notas de votacao\\Notas de votacao.csproj|c:\\users\\keno.wsmramos\\source\\repos\\logicacomcsharpti26\\atividades array\\notas de votacao\\notas de votacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12841232-6327-497C-B41A-89C4B6139E9C}|Notas de votacao\\Notas de votacao.csproj|solutionrelative:notas de votacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharpTI26\\Atividades array\\Notas de votacao\\Notas de votacao\\Program.cs",
+              "RelativeDocumentMoniker": "Notas de votacao\\Program.cs",
+              "ToolTip": "C:\\Users\\keno.wsmramos\\source\\repos\\LogicaComCsharpTI26\\Atividades array\\Notas de votacao\\Notas de votacao\\Program.cs",
+              "RelativeToolTip": "Notas de votacao\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:57:09.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

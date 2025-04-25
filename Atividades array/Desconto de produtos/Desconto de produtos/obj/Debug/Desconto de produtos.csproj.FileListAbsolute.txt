@@ -1,0 +1,7 @@
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Desconto de produtos\Desconto de produtos\bin\Debug\Desconto de produtos.exe.config
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Desconto de produtos\Desconto de produtos\bin\Debug\Desconto de produtos.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Desconto de produtos\Desconto de produtos\bin\Debug\Desconto de produtos.pdb
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Desconto de produtos\Desconto de produtos\obj\Debug\Desconto de produtos.csproj.AssemblyReference.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Desconto de produtos\Desconto de produtos\obj\Debug\Desconto de produtos.csproj.CoreCompileInputs.cache
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Desconto de produtos\Desconto de produtos\obj\Debug\Desconto de produtos.exe
+C:\Users\keno.wsmramos\source\repos\LogicaComCsharpTI26\Atividades array\Desconto de produtos\Desconto de produtos\obj\Debug\Desconto de produtos.pdb
