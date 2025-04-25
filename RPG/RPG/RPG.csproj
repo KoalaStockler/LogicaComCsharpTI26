@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8F625767-EFF5-45B7-ACEE-8194EA660D17}</ProjectGuid>
+    <ProjectGuid>{4DD53981-94B9-4ECA-9D4E-050E78298D90}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Numeros_Random</RootNamespace>
-    <AssemblyName>Numeros Random</AssemblyName>
+    <RootNamespace>RPG</RootNamespace>
+    <AssemblyName>RPG</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
